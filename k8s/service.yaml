@@ -9,4 +9,4 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 4499
-  type: NodePort   # we can change to ClusterIP if using ingress
+  type: NodePort   
